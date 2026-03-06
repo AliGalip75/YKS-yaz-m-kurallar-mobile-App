@@ -20,7 +20,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.ali_2003.yksyazimkurallari"
+      "package": "com.ali_2003.yksyazimkurallariapp"
     },
     "web": {
       "output": "static",
@@ -50,7 +50,8 @@
     ],
     "experiments": {
       "typedRoutes": true,
-      "reactCompiler": true
+      "reactCompiler": true,
+      "tsconfigPaths": true
     },
     "extra": {
       "router": {},
