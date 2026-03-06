@@ -1,0 +1,64 @@
+/* global.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Main background of the app */
+    --theme-background: 249 250 251; /* Tailwind Gray-50 */
+    /* Background for question cards, modals, and bottom sheets */
+    --theme-surface: 255 255 255; /* White */
+    /* Primary brand color for main buttons (Start Quiz, Save) and progress bars */
+    --theme-primary: 21 93 252; /* User's Red */
+    /* Secondary color for secondary buttons (Go Back, Cancel) or tags */
+    --theme-secondary: 107 114 128; /* Tailwind Gray-500 */
+    /* Main readable text (Questions, titles, options) */
+    --theme-text: 17 24 39; /* Tailwind Gray-900 */
+    --theme-text-white: 249 250 251; /* Tailwind Gray-50 */
+    /* Less important text (Question 1/10, small hints) */
+    --theme-text-muted: 107 114 128; /* Tailwind Gray-500 */
+    /* Dividers, card outlines, and unselected options */
+    --theme-border: 229 231 235; /* Tailwind Gray-200 */
+    --theme-border-gold: 255 128 17; /* Gold border color */
+    --theme-border-success: 5 223 114; /* Default Tailwind Green-400 */
+    --theme-border-error: 231 0 11; /* Default Tailwind Red-500 */
+    --theme-border-primary: 21 93 252; /* Tailwind Red-400 */
+    /* Correct answer highlights and success messages */
+    --theme-success: 34 197 94; /* Default Tailwind Green-500 */
+    /* Wrong answer highlights, delete buttons, and error messages */
+    --theme-error: 239 68 68; /* Default Tailwind Red-500 */
+    /* Warning messages or caution alerts */
+    --theme-warning: 245 158 11; /* Default Tailwind Amber-500 */
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      /* Main background of the app in dark mode */
+      --theme-background: 17 24 39; /* Tailwind Gray-900 */
+      /* Background for question cards in dark mode */
+      --theme-surface: 31 41 55; /* Tailwind Gray-800 */
+      /* Primary brand color in dark mode (usually slightly lighter) */
+      --theme-primary: 21 93 252; /* Tailwind Red-400 */
+      /* Secondary color in dark mode */
+      --theme-secondary: 156 163 175; /* Tailwind Gray-400 */
+      /* Main readable text in dark mode (usually white or light gray) */
+      --theme-text: 249 250 251; /* Tailwind Gray-50 */
+      /* Less important text in dark mode */
+      --theme-text-muted: 156 163 175; /* Tailwind Gray-400 */
+      /* Dividers and borders in dark mode */
+      --theme-border: 55 65 81; /* Tailwind Gray-700 */
+      --theme-border-gold: 255 128 17; /* Gold border color */
+      /* Border success in dark mode */
+      --theme-border-success: 5 223 114; /* Default Tailwind Green-400 */
+      --theme-border-error: 231 0 11; /* Default Tailwind Red-500 */
+      --theme-border-primary: 21 93 252; /* Tailwind Red-400 */
+      /* Correct answer highlights in dark mode */
+      --theme-success: 74 222 128; /* Default Tailwind Green-400 */
+      /* Wrong answer highlights in dark mode */
+      --theme-error: 248 113 113; /* Default Tailwind Red-400 */
+      /* Warning messages in dark mode */
+      --theme-warning: 251 191 36; /* Default Tailwind Amber-400 */
+    }
+  }
+}

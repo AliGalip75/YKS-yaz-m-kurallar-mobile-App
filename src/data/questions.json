@@ -1,0 +1,28 @@
+[
+  {
+    "id": "q1",
+    "text": "Aşağıdaki cümlelerin hangisinde 'ki'nin yazımı ile ilgili bir yanlışlık yapılmıştır?",
+    "options": [
+      "A) Öyle çok yoruldum ki anlatamam.",
+      "B) Evdeki hesap çarşıya uymadı.",
+      "C) Yarınki toplantıya mutlaka katılmalısın.",
+      "D) Madem ki gelmeyecektin neden haber vermedin?",
+      "E) Oysaki ben ona her şeyi anlatmıştım."
+    ],
+    "correctIndex": 3,
+    "explanation": "'Mademki' sözcüğü kalıplaşmış olduğu için bitişik yazılır. (İpucu: SİMBOHÇAM kuralı)"
+  },
+  {
+    "id": "q2",
+    "text": "Aşağıdaki cümlelerde geçen altı çizili sözcüklerden hangisinin yazımı yanlıştır?",
+    "options": [
+      "A) Bu konuda hiçbir şey söylemek istemiyorum.",
+      "B) Herkez kendi işiyle ilgilensin lütfen.",
+      "C) Birazdan misafirler gelecek, hazır olun.",
+      "D) Birkaç kişi bu duruma itiraz etti.",
+      "E) Herhangi bir sorun çıkarsa beni arayın."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Herkez' değil, 'herkes' şeklinde yazılmalıdır."
+  }
+]

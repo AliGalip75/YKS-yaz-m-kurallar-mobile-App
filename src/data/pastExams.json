@@ -1,0 +1,772 @@
+[
+  {
+    "id": "exam-2000-oss",
+    "year": 2000,
+    "name": "2000 ÖSS",
+    "questions": [
+      {
+        "id": "q-2000-1",
+        "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2000 ÖSS)",
+        "options": [
+          "A) Art arda yaşadığımız sıkıntılar, doğruyla yanlışı ayırtetmemizi sağladı.",
+          "B) Onu gördükten sonra kendi durumuna şükretti.",
+          "C) \"O ana kadar sesimi çıkarmadım, sabrettim; ama daha fazla dayanamadım.\" dedi.",
+          "D) Azmetti; karşılaştığı bütün engelleri yenerek amacına ulaştı.",
+          "E) Böylesine güzel bir günde bana hayatı zehretti."
+        ],
+        "correctIndex": 0,
+        "explanation": "Doğru cevap A şıkkıdır. 'ayırt etmek' ayrı yazılır.",
+        "source": "2000 ÖSS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2001-oss",
+    "year": 2001,
+    "name": "2001 ÖSS",
+    "questions": [
+      {
+        "id": "q-2001-1",
+        "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2001 ÖSS)",
+        "options": [
+          "A) Nasıl oldu da beni hatırlayamadı bir türlü anlayamadım.",
+          "B) O kadar çok çalıştı ki havanın karardığını fark etmedi.",
+          "C) Bugün sinemaya gidelim, yarında size geliriz.",
+          "D) Yarınki toplantıya kimlerin katılacağı belli değil henüz.",
+          "E) Geçmişte yaşanan tatsızlıkların unutulmasını istiyordu artık."
+        ],
+        "correctIndex": 2,
+        "explanation": "Doğru cevap C şıkkıdır. 'Yarın da' şeklinde ayrı yazılmalıdır.",
+        "source": "2001 ÖSS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2002-oss",
+    "year": 2002,
+    "name": "2002 ÖSS",
+    "questions": [
+      {
+        "id": "q-2002-1",
+        "text": "Aşağıdaki cümlelerin hangisindeki altı çizili sözcüğün yazımı yanlıştır? (2002 ÖSS)",
+        "options": [
+          "A) Son dönem şairleri bu antolojiye alınmamış.",
+          "B) Voleybolcular otobüslerine bindiler.",
+          "C) Kardeşi bu filmin yönetmenliğini üstlenmiş.",
+          "D) Antırenör bugünkü çalışmayı erken bitirdi.",
+          "E) Bu zürafa hayvanat bahçesine yeni gelmiş."
+        ],
+        "correctIndex": 3,
+        "explanation": "Doğru cevap D şıkkıdır. 'Antrenör' kelimesinde fazladan 'ı' harfi kullanılmıştır.",
+        "source": "2002 ÖSS"
+      },
+      {
+        "id": "q-2002-2",
+        "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2002 ÖSS)",
+        "options": [
+          "A) Arkadaşları, bu kadar sorumsuz davranmasının nedenini bir türlü öğrenemediler.",
+          "B) Kuşkonmaz, saksıda yetiştirilen, uzun saplı, ince ve küçük yapraklı bir süs bitkisidir.",
+          "C) Tartışmacı, öne sürdüğü savın doğruluğunu kanıtlıyamadı.",
+          "D) Panele, üniversite öğrencileriyle öğretim üyeleri katılmıştı.",
+          "E) Aile büyüklerinden öğrenilen el sanatları, yöre halkının geçim kaynağını oluşturuyor."
+        ],
+        "correctIndex": 2,
+        "explanation": "Doğru cevap C şıkkıdır. 'kanıtlayamadı' şeklinde yazılmalıdır.",
+        "source": "2002 ÖSS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2003-oss",
+    "year": 2003,
+    "name": "2003 ÖSS",
+    "questions": [
+      {
+        "id": "q-2003-1",
+        "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2003 ÖSS)",
+        "options": [
+          "A) Yapılan ölçümler, hava koşullarına bağlı olarak değişgenlik gösteriyormuş.",
+          "B) Yönetmelikte yapılan değişikliklerden çoğumuzun haberi yoktu.",
+          "C) Emekli olunca, bu dernekte gönüllü olarak çalışmaya başladı.",
+          "D) Çocuğu, bu okula kaydettirmek için çok uğraşmıştı.",
+          "E) Geçmişe baktığımızda buna benzer pek çok durumla karşılaşıyoruz."
+        ],
+        "correctIndex": 0,
+        "explanation": "Doğru cevap A şıkkıdır. 'Değişkenlik' şeklinde yazılmalıdır.",
+        "source": "2003 ÖSS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2004-oss",
+    "year": 2004,
+    "name": "2004 ÖSS",
+    "questions": [
+      {
+        "id": "q-2004-1",
+        "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2004 ÖSS)",
+        "options": [
+          "A) Bize hep: “İyi bir kitap okuru olmakla övününüz.” derdi.",
+          "B) “Bugünlerde işlerimiz iyi.” diyerek ellerini ovuşturdu.",
+          "C) “O zamanlar buğdaylarımız bu değirmende övütülürdü.” diye söze başladı.",
+          "D) Öğrencilerine her zaman dürüst olmayı öğütlerdi.",
+          "E) Doktor, anneme: “Günde üç öğün yemek yiyin.” dedi."
+        ],
+        "correctIndex": 2,
+        "explanation": "Doğru cevap C şıkkıdır. 'öğütülürdü' şeklinde yazılmalıdır.",
+        "source": "2004 ÖSS"
+      },
+      {
+        "id": "q-2004-2",
+        "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2004 ÖSS)",
+        "options": [
+          "A) Baş başa vermiş, çocukların sorunlarından söz ediyorlardı.",
+          "B) İnsanımızın belirleyici özelliklerinden biri de konuk severliğidir.",
+          "C) Romandaki kişilerin, tipik İç Anadolu insanının özelliklerini taşıdığını söyledi.",
+          "D) Doğu felsefesiyle ilgili hemen her kitabı okurdu.",
+          "E) Televizyondaki kültür ve sanat programlarını sürekli izlerdi."
+        ],
+        "correctIndex": 1,
+        "explanation": "Doğru cevap B şıkkıdır. 'konukseverliği' bitişik yazılmalıdır.",
+        "source": "2004 ÖSS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2005-oss",
+    "year": 2005,
+    "name": "2005 ÖSS",
+    "questions": [
+      {
+        "id": "q-2005-1",
+        "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2005 ÖSS)",
+        "options": [
+          "A) Bu kitap, ilk basımının üzerinden yirmi yıl geçtikten sonra, yeniden yayımlandı.",
+          "B) Çiçekcinin yeni açtığı dükkân çok iyi çalışıyor.",
+          "C) Bir yapıtın kalıcılığını sağlayan birçok etken vardır.",
+          "D) Bu romanda yüzyılımızın temel sorunları yansıtılıyor.",
+          "E) Başarılı olmak için düzenli ve sürekli çalışmak gerekir."
+        ],
+        "correctIndex": 1,
+        "explanation": "Doğru cevap B şıkkıdır. 'Çiçekçinin' şeklinde sert ünsüz benzeşmesine uyulmalıdır.",
+        "source": "2005 ÖSS"
+      },
+      {
+        "id": "q-2005-2",
+        "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2005 ÖSS)",
+        "options": [
+          "A) Bu konudaki kararımı size bildirmeyeceğim.",
+          "B) Konuşmasında bu konuya da değinecek.",
+          "C) Bebeği bütün gün kardeşi oyalıyacak.",
+          "D) Onun bu işi başaracağını söyleyebilirim.",
+          "E) Onu kime verdiğimi anımsayamıyorum."
+        ],
+        "correctIndex": 2,
+        "explanation": "Doğru cevap C şıkkıdır. 'oyalayacak' şeklinde yazılmalıdır.",
+        "source": "2005 ÖSS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2006-oss",
+    "year": 2006,
+    "name": "2006 ÖSS",
+    "questions": [
+      {
+        "id": "q-2006-1",
+        "text": "Altı yıl önce aramızdan (I) ayrılan değerli sanatçımız, İstanbul’da açılan bir sergiyle anılıyor. Sanat yaşamı boyunca yapıtlarında çağdaş sanat akımlarını (II) göz ardı etmeyen, bunun (III) yanı sıra geleneklerimizi ve (IV) Anadolu Estetiğini de yüzeye çıkarmayı başaran sanatçının yapıtları (V) 7 Şubat 2006 tarihine kadar izlenebilir.\n\nBu parçadaki altı çizili sözlerden hangisinin yazımı yanlıştır? (2006 ÖSS)",
+        "options": [
+          "A) I.",
+          "B) II.",
+          "C) III.",
+          "D) IV.",
+          "E) V."
+        ],
+        "correctIndex": 3,
+        "explanation": "Doğru cevap D şıkkıdır. Özel isme dâhil olmayan kelimeler küçük harfle başlar: 'Anadolu estetiği' şeklinde olmalıdır.",
+        "source": "2006 ÖSS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2007-oss",
+    "year": 2007,
+    "name": "2007 ÖSS",
+    "questions": [
+      {
+        "id": "q-2007-1",
+        "text": "Yayınevimiz (I) 2003’de kuruldu. 60’a yakın şiir kitabı yayımladık. Tüm olumsuzluklara karşın (II) şiirde bugün bir hareketlilik yaşanıyor. İyi şiir (III) yazılıyor mu? Evet. Güçlü bir şiir geliyor. Ne var ki yayımladığımız kitaplar çok satılmıyor. Bu, büyük (IV) yayınevlerinde de (V) aşağı yukarı böyle.\n\nYukarıdaki numaralanmış sözlerden hangisinin yazımı yanlıştır? (2007 ÖSS)",
+        "options": [
+          "A) I.",
+          "B) II.",
+          "C) III.",
+          "D) IV.",
+          "E) V."
+        ],
+        "correctIndex": 0,
+        "explanation": "Doğru cevap A şıkkıdır. '2003'te' şeklinde sert ünsüz benzeşmesine uyulmalıdır.",
+        "source": "2007 ÖSS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2008-oss",
+    "year": 2008,
+    "name": "2008 ÖSS",
+    "questions": [
+      {
+        "id": "q-2008-1",
+        "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2008 ÖSS)",
+        "options": [
+          "A) Bu tedaviden sonra hastalığın seyri değişti.",
+          "B) Yıllık izninin bir bölümünü bu ay kullanıyor.",
+          "C) Organ nakliyle yaşama döndürülen hastaların sayısı gün geçtikçe artıyor.",
+          "D) Çağırılmadığı için akşamki davette o yoktu.",
+          "E) Uzun süre yağmur altında yürüdükten sonra sığınacak bir yer buldu"
+        ],
+        "correctIndex": 3,
+        "explanation": "Doğru cevap D şıkkıdır. 'Çağrılmadığı' şeklinde ünlü düşmesine uyulmalıdır.",
+        "source": "2008 ÖSS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2009-oss",
+    "year": 2009,
+    "name": "2009 ÖSS",
+    "questions": [
+      {
+        "id": "q-2009-1",
+        "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2009 ÖSS)",
+        "options": [
+          "A) Bu binanın planını Avusturyalı bir mimarla birlikte çizmişler.",
+          "B) Müzenin bugünkü durumuyla ilgili bilgileri bir önceki sayımızda yayımlamıştık.",
+          "C) O gezide yıllardır görmediğim bir arkadaşıma rastladım.",
+          "D) Buraya yeni bir yaya geçiti yapılacak.",
+          "E) Şenlikler bu yıl mayıs ayında başlayacak."
+        ],
+        "correctIndex": 3,
+        "explanation": "Doğru cevap D şıkkıdır. Yumuşama kurallarına uyarak 'geçidi' şeklinde yazılmalıdır.",
+        "source": "2009 ÖSS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2010",
+    "year": 2010,
+    "name": "2010 YGS / LYS",
+    "questions": [
+      {
+        "id": "q-2010-1",
+        "text": "“1969 yılında (I) Güzel Sanatlar Akademisini bitirdim. Resim yapmaya (II) karikatürist olarak başladım; çizdiklerimi 10 liraya satardım (III) Dolmuş, Tef, Pardon gibi dergilere. İlk sergimi 1959 yılında (IV)Taksim meydanında açtım ve yalnızca üç tablo satarak yer kirasını ancak (V) ödeyebildim.” diyor usta ressam sanat yaşamının ilk yıllarını anlatırken.\n\nBu parçadaki altı çizili sözlerden hangisinin yazımı yanlıştır? (2010 YGS)",
+        "options": [
+          "A) I.",
+          "B) II.",
+          "C) III.",
+          "D) IV.",
+          "E) V."
+        ],
+        "correctIndex": 3,
+        "explanation": "Doğru cevap D şıkkıdır. Meydan ve bulvar isimleri büyük yazılır: 'Taksim Meydanı'nda' olmalı.",
+        "source": "2010 YGS"
+      },
+      {
+        "id": "q-2010-2",
+        "text": "(I) 1920’li yıllardı. Bizim evde dedem (II) utunu yanından hiç eksik etmezdi. Gramofondan (III) klasik Türk müziği dinlerdik o yıllarda. (IV) İstanbul Şehir Tiyatrolarında Muhsin Ertuğrul’un sahneye koyduğu oyunları kaçırmazdık. Ayrıca (V) öğretmenlerimiz de bizi kitap okumaya yönlendirirdi.\n\nBu parçadaki numaralanmış sözlerin hangisinde bir yazım yanlışı vardır? (2010 LYS)",
+        "options": [
+          "A) I.",
+          "B) II.",
+          "C) III.",
+          "D) IV.",
+          "E) V."
+        ],
+        "correctIndex": 1,
+        "explanation": "Doğru cevap B şıkkıdır. 'Ut' kelimesi ünlüyle başlayan bir ek aldığında yumuşamaya uğrar ve 'udunu' şeklinde yazılmalıdır.",
+        "source": "2010 LYS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2011",
+    "year": 2011,
+    "name": "2011 YGS / LYS",
+    "questions": [
+      {
+        "id": "q-2011-1",
+        "text": "1349’da (I) Cenevizliler tarafından yapılan, sonraki yıllarda da birçok kez onarılan (II) Galata Kulesi, İstanbul'daki görülmeye değer yerlerden biridir. Üsküdar’ın (III) Doğancılar Semti’ndeki bu yapı (IV) 17. yy.da (V) Hezarfen Ahmet Çelebi'nin takma kanatlarla uçmasından sonra da birçok uçma denemesine tanık olmuştur.\n\nBu parçadaki numaralanmış sözlerin hangisinde bir yazım yanlışı vardır? (2011 LYS)",
+        "options": [
+          "A) I.",
+          "B) II.",
+          "C) III.",
+          "D) IV.",
+          "E) V."
+        ],
+        "correctIndex": 2,
+        "explanation": "Doğru cevap C şıkkıdır. İl, ilçe, belde, semt vb. sözler küçük harfle başlar: 'Semti' değil, 'semtindeki' olmalıdır.",
+        "source": "2011 LYS"
+      },
+      {
+        "id": "q-2011-2",
+        "text": "Top peşinde koşan çocukları, pencereden sarkıp çamaşır asan genç kızları çekinmeden (I) fotoğraflamak mı istiyorsunuz? O zaman Balat vazgeçilmez mekânınızdır. Hele (II) akşamüstü eski semtin dar sokaklarına öyle bir ışık (III) düşerki hayran kalırsınız. Son yıllarda yapılan (IV) restorasyon çalışmalarıyla güzelleşen (V) Balat Kültür Evini de görmeden edemezsiniz.\n\nBu parçadaki numaralanmış sözlerin hangisinde bir yazım yanlışı vardır? (2011 YGS)",
+        "options": [
+          "A) IV.",
+          "B) V.",
+          "C) III.",
+          "D) II.",
+          "E) I."
+        ],
+        "correctIndex": 2,
+        "explanation": "Doğru cevap C şıkkıdır. 'düşer ki' ayrı yazılmalıdır.",
+        "source": "2011 YGS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2012-lys",
+    "year": 2012,
+    "name": "2012 LYS",
+    "questions": [
+      {
+        "id": "q-2012-1",
+        "text": "Mudurnu,(I) Abant'ın merkezine (II) 18 km mesafede ve (III) Arnavut kaldırımlı sokakları, eski evleri, köprüleriyle çok çekici. Çarşısında Ahilik geleneği yaşatılıyor ve her (IV) Cuma tören yapılıyor. Ayrıca buradaki tarihî (V) yapıları da seyretmeye doyum olmuyor.\n\nBu parçadaki numaralanmış sözlerden hangisinin yazımı yanlıştır? (2012 LYS)",
+        "options": [
+          "A) I.",
+          "B) II.",
+          "C) III.",
+          "D) IV.",
+          "E) V."
+        ],
+        "correctIndex": 3,
+        "explanation": "Doğru cevap D şıkkıdır. Belli bir tarihi göstermeyen gün ve ay isimleri küçük harfle başlar: 'cuma'.",
+        "source": "2012 LYS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2013-ygs",
+    "year": 2013,
+    "name": "2013 YGS",
+    "questions": [
+      {
+        "id": "q-2013-1",
+        "text": "Kaplumbağalar, roman kişileri ve kullanılan dil bakımından Fakir Baykurt’un, aynı zamanda köy edebiyatının (I) başyapıtlarından biri olarak okunmalıdır. Kahramanların gerçekliğinin (II) yanısıra, (III) dilleri de kişiliklerini adım adım oluşturan (IV) yetkinliktedir. Ayrıca, çok sayıda romanı ve öykü kitabı yayımlanmış (V) herhangi bir yazarı, Kaplumbağalar gibi bir roman bile ölümsüzleştirebilir.\n\nBu parçadaki numaralanmış sözlerden hangisinin yazımı yanlıştır? (2013 YGS)",
+        "options": [
+          "A) I.",
+          "B) II.",
+          "C) III.",
+          "D) IV.",
+          "E) V."
+        ],
+        "correctIndex": 1,
+        "explanation": "Doğru cevap B şıkkıdır. 'yanı sıra' her zaman ayrı yazılır.",
+        "source": "2013 YGS"
+      },
+      {
+        "id": "q-2013-2",
+        "text": "Diller yeşerdikleri kültürle büyüyor, onunla zenginleşiyor. (I) Öyleki dillerin ölümüyle (II) kültürler de yitip gidiyor ve bu (III) yok oluş yalnızca o dili konuşan insanları değil, dünyayı da etkiliyor. Her (IV) on dört günde bir içlerinden biri daha sessizliğe doğru uğurlanan diller, dünya (V) mozaiğinin bir parçasını da beraberinde götürüyor.\n\nBu parçadaki altı çizili sözlerden hangisinin yazımı yanlıştır? (2013 YGS)",
+        "options": [
+          "A) I.",
+          "B) II.",
+          "C) III.",
+          "D) IV.",
+          "E) V."
+        ],
+        "correctIndex": 0,
+        "explanation": "Doğru cevap A şıkkıdır. 'Öyle ki' bağlaç olduğu için her zaman ayrı yazılır.",
+        "source": "2013 YGS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2014-ygs",
+    "year": 2014,
+    "name": "2014 YGS",
+    "questions": [
+      {
+        "id": "q-2014-1",
+        "text": "Işıldayan canlıların ilginç dünyasının (I) bilim insanlarının (II) yanı sıra film (III) yapımcılarını da meraklandırdığını ve onlara ilham verdiğini görüyoruz. Bazılarınız Avatar adlı (IV) bilim kurgu filmini sinemada seyretmişsinizdir. Pandora isimli bir uyduda yaşayan mavi renkli insanların ve ışıldayan canlıların ekrandaki görüntüleri (V) sahidende büyüleyiciydi.\n\nBu parçadaki numaralanmış sözlerden hangisinin yazımı yanlıştır? (2014 YGS)",
+        "options": [
+          "A) I.",
+          "B) II.",
+          "C) III.",
+          "D) IV.",
+          "E) V."
+        ],
+        "correctIndex": 4,
+        "explanation": "Doğru cevap E şıkkıdır. 'sahi' aslen köktür 'sahiden de' biçiminde olmalıdır.",
+        "source": "2014 YGS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2015-lys",
+    "year": 2015,
+    "name": "2015 LYS",
+    "questions": [
+      {
+        "id": "q-2015-1",
+        "text": "Sonsuzluk hissi uyandıran geniş (I) bozkırları, (II) keşfedilmeyi bekleyen vadileri, ormanları, tarihî kalıntıları, yöresel yemekleriyle Anadolu'nun önemli duraklarından biri olan (III) Çorum ili, bulunduğu yörenin en büyük (IV) sanayi merkezi olma (V) ünvanını da taşıyor.\n\nBu parçadaki numaralanmış altı çizili sözlerden hangisinin yazımı yanlıştır? (2015 LYS)",
+        "options": [
+          "A) I.",
+          "B) II.",
+          "C) III.",
+          "D) IV.",
+          "E) V."
+        ],
+        "correctIndex": 4,
+        "explanation": "Doğru cevap E şıkkıdır. 2015 LYS mantığıyla Unvan şeklindeydi ancak mevcut TDK kurallarına göre 'ünvan' TDK tarafından kabul edilmiş olsa bile bu LYS sorusunda o yılların TDK yapısına göre unvan yazılmaması yanlıştı.",
+        "source": "2015 LYS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2016",
+    "year": 2016,
+    "name": "2016 YGS / LYS",
+    "questions": [
+      {
+        "id": "q-2016-1",
+        "text": "Kendisine (I) 2’inci Aristo sıfatı verilen Farabi, insan ihtiyaçlarının farklılığı nedeniyle toplum içindeki (II) iş birliğinin önemli olduğunu vurgulamıştır. (III) Özel mülkiyeti (IV) kabul eden Farabi, topluma ait pek çok malın (V) herkesçe kullanılması gerektiğini belirtir. Ona göre devlet, toplumsal sözleşmeye dayanarak adaleti sağlar.\n\nBu parçadaki altı çizili sözcüklerden hangisinin yazımı yanlıştır? (2016 YGS)",
+        "options": [
+          "A) I.",
+          "B) II.",
+          "C) III.",
+          "D) IV.",
+          "E) V."
+        ],
+        "correctIndex": 0,
+        "explanation": "Doğru cevap A şıkkıdır. '2'nci' şeklinde olmalıdır, rakamla 'inci' eki aynı anda gereksiz kullanılmamalıdır.",
+        "source": "2016 YGS"
+      },
+      {
+        "id": "q-2016-2",
+        "text": "Lyon, bir milyonu aşan (I) nüfusuyla Fransa'nın üçüncü büyük kenti. (II) UNESCO'nun Dünya Mirası Listesi'nde yer alan bu (III) tarihî kent merkezindeki dar sokaklar, tüneller görülmeye değer. Sinema bu kentte (IV) icadedilmiş. Bu nedenle sinemanın (V) ana vatanı sayılıyor.\n\nBu parçadaki numaralanmış sözlerin hangisinde yazım yanlışı vardır? (2016 LYS)",
+        "options": [
+          "A) I.",
+          "B) II.",
+          "C) III.",
+          "D) IV.",
+          "E) V."
+        ],
+        "correctIndex": 3,
+        "explanation": "Doğru cevap D şıkkıdır. 'icat edilmiş' ayrı yazılır, çünkü herhangi bir ses düşmesi veya türemesi yoktur.",
+        "source": "2016 LYS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2017",
+    "year": 2017,
+    "name": "2017 YGS / LYS",
+    "questions": [
+      {
+        "id": "q-2017-1",
+        "text": "Aşağıdaki cümlelerin hangisinde büyük harflerin kullanımıyla ilgili bir yanlışlık yapılmıştır? (2017 LYS)",
+        "options": [
+          "A) Osmanlı Devleti'nde Batılılaşma hamlesi Tanzimat Fermanı ile başlamıştır.",
+          "B) Hicaz, Türk müziğinde en sevdiğim makamlardan biridir.",
+          "C) Çocukken gittiğim Uzungöl Beldesi, unutamadığım yerlerdendir.",
+          "D) Reşat Nuri'nin Gamsız'ın Ölümü adlı öyküsü, Bakanlığın ders kitaplarına girdi.",
+          "E) Homeros'un eşsiz eserlerinde Eski Yunan tanrıları ana kahramanlardır."
+        ],
+        "correctIndex": 2,
+        "explanation": "Doğru cevap C şıkkıdır. İl, ilçe, belde isimleri küçük yazılır ('beldesi' olmalıdır).",
+        "source": "2017 LYS"
+      },
+      {
+        "id": "q-2017-2",
+        "text": "Yazma sadece (I) Orta Doğu’nun Mısır ve Mezopotamya gibi (II) oldukça büyük uygarlıklarına özgü bir eylem (III) olagelmişken Homeros denen dev; MÖ IX. veya yüzyıl içinde, tarihin derinliklerinden gelen tüm destanlardan, efsanelerden ve masallardan aldıklarını bir senteze kavuşturdu ve bize daha önce (IV) hiç kimsenin kapılarını aralamadığı (V) sıradışı insanlık serüvenleri anlattı.\n\nBu parçadaki altı çizili sözlerden hangisinin yazımı yanlıştır? (2017 YGS)",
+        "options": [
+          "A) I.",
+          "B) II.",
+          "C) III.",
+          "D) IV.",
+          "E) V."
+        ],
+        "correctIndex": 4,
+        "explanation": "Doğru cevap E şıkkıdır. 'Sıra dışı' ayrı yazılır.",
+        "source": "2017 YGS"
+      }
+    ]
+  },
+  {
+    "id": "exam-2018-tyt",
+    "year": 2018,
+    "name": "2018 TYT",
+    "questions": [
+      {
+        "id": "q-2018-1",
+        "text": "(I) Kişiye odaklı söyleşilerde amaç; soru sorulan kişinin yaşamını, yaptıklarını veya fikirlerini gündeme getirmektir. (II) Bu tür söyleşilerin öznesi, toplumda merak uyandıran ünlü şahsiyetler olabilir. (III) Örneğin sporcular, sanatçılar ve politikacılar bu söyleşilerde sıklıkla yer alır. (IV) Kimi zamanda tanınmamış ancak yaşamı ve yaptıklarıyla dikkatleri çekmiş kişiler seçilir. (V) Sorular aracılığıyla onların iç dünyalarında neler yaşadıkları okura aktarılmak istenir.\n\nBu parçada numaralanmış cümlelerin hangisinde “de” bağlacının yazımıyla ilgili bir yanlışlık yapılmıştır? (2018 TYT)",
+        "options": [
+          "A) I.",
+          "B) II.",
+          "C) III.",
+          "D) IV.",
+          "E) V."
+        ],
+        "correctIndex": 3,
+        "explanation": "Doğru cevap D şıkkıdır. Bağlaç olan 'da, de' ayrı yazılır: 'Kimi zaman da...'",
+        "source": "2018 TYT"
+      },
+      {
+        "id": "q-2018-2",
+        "text": "“Birleşik sözcüğü oluşturan sözcüklerden biri veya her ikisi birleşme sırasında anlam değişmesine uğramışsa sözcük bitişik yazılır.” \n\nAşağıdaki cümlelerin hangisinde bu kurala uyulmadığı için bir yazım yanlışı yapılmıştır? (2018 TYT)",
+        "options": [
+          "A) Adını şarkılarda duyduğumuz yalıçapkını, adalarda yaşayan bir kuş türüdür.",
+          "B) Yemekten sonra tatlı olarak birer porsiyon bülbülyuvası siparişi verdik.",
+          "C) Doğum günüm için annem bana camgöbeği renginde bir kazak örmüş.",
+          "D) Pek çok kişinin sandığının aksine denizyılanı nehirlerde de yaşayabilir.",
+          "E) Yazar bu öyküsünde semt pazarlarındaki ayaküstü sohbetlere önemli bir yer ayırmış."
+        ],
+        "correctIndex": 3,
+        "explanation": "Doğru cevap D şıkkıdır. 'Denizyılanı' yazım hatasıdır, çünkü her iki kelime de gerçek anlamını korumaktadır ('deniz yılanı' olmalı).",
+        "source": "2018 TYT"
+      }
+    ]
+  },
+  {
+    "id": "exam-2019-tyt",
+    "year": 2019,
+    "name": "2019 TYT",
+    "questions": [
+      {
+        "id": "q-2019-1",
+        "text": "Aşağıdaki cümlelerde yer alan birleşik fiillerden hangisinin yazımı yanlıştır? (2019 TYT)",
+        "options": [
+          "A) Bunca yıllık tanışıklığımıza rağmen benden şüphelendiğiniz için teessüf ederim.",
+          "B) Durumu üst makama arzederiz, verilecek cevaba göre de ne yapacağımızı kararlaştırırız.",
+          "C) Bu saatten sonra gelse de gelmese de hiç fark etmez; her şey için çok geç artık.",
+          "D) Antalya’da etkili olan yağış, seraları bir anda su altında bıraktı ve bütün mahsulü mahvetti.",
+          "E) O her istediğini yapacak, istediği gibi at koşturacak; biz de öylece oturup seyir mi edeceğiz?"
+        ],
+        "correctIndex": 1,
+        "explanation": "Doğru cevap B şıkkıdır. Ses düşmesi veya türemesi olmayan kelimeler ayrı yazılır: 'arz ederiz'.",
+        "source": "2019 TYT"
+      },
+      {
+        "id": "q-2019-2",
+        "text": "Aşağıdaki cümlelerin hangisinde ifadenin okunuşuna uygun bir ek getirilmemesinden kaynaklanan yazım yanlışı vardır? (2019 TYT)",
+        "options": [
+          "A) Doktora araştırmasını TÜBİTAK’ın bursuyla yürütmüştü.",
+          "B) Saat 16.30’da başlayan maç TRT’den naklen yayınlanıyordu.",
+          "C) Öğrenciliği zamanında Zonguldak’ın Ereğli ilçesindeki KYK’da kalmıştı.",
+          "D) Kulüplerin 5. olağan toplantısı TFF’nin tesislerinde gerçekleştirildi.",
+          "E) Bir yaz günü saat 19.00’da TBMM’nin önünde buluşup yola çıkmışlardı."
+        ],
+        "correctIndex": 2,
+        "explanation": "Doğru cevap C şıkkıdır. KYK (Ke-Ye-Ke şeklinde okunur), bu yüzden 'KYK'de' olmalıdır.",
+        "source": "2019 TYT"
+      }
+    ]
+  },
+  {
+    "id": "exam-2020-tyt",
+    "year": 2020,
+    "name": "2020 TYT",
+    "questions": [
+      {
+        "id": "q-2020-1",
+        "text": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımı ile ilgili yanlışlık yapılmıştır? (2020 TYT)",
+        "options": [
+          "A) Bu konuyla ilgili kanun, Resmî Gazete’de yayımlanarak yürürlüğe girdi.",
+          "B) Leyla İle Mecnun, Türk edebiyatında en çok işlenen anlatılardandır.",
+          "C) Bahar mevsiminde bu tepeden Çanakkale Boğazı’nın seyrine doyum olmaz.",
+          "D) Kültigin Anıtı, uçsuz bucaksız Orhun Vadisi’nin orta yerinde ziyaretçilerini bekler.",
+          "E) XII. Uluslararası Dünya Dili Türkçe Sempozyumu bu yıl Ankara’da yapılacak."
+        ],
+        "correctIndex": 1,
+        "explanation": "Doğru cevap B şıkkıdır. Eser isimlerindeki bağlaçlar küçük harfle yazılmalıdır ('Leyla ile Mecnun').",
+        "source": "2020 TYT"
+      },
+      {
+        "id": "q-2020-2",
+        "text": "Aşağıdaki cümlelerin hangisinde altı çizili sözcüğün yazımı yanlıştır? (2020 TYT)",
+        "options": [
+          "A) Bu araştırmada bizi şaşırtan bulgu, çevreciliğin barışsever akımlarla çatışmasıdır.",
+          "B) O kadar merhametlidir ki yakın arkadaşları arasında karıncaincitmez olarak anılır.",
+          "C) Başkentin ortasındaki gökdelenler, etrafındaki binaları yutacakmış gibi duruyordu.",
+          "D) İnsanlar, çokbilmiş olarak tanınan kişilerle arkadaşlık kurmaktan uzak dururlar.",
+          "E) Orada yaşamamış, o insanlarla hiç bağ kurmamış gibi ne değerbilir ne yol yordam."
+        ],
+        "correctIndex": 4,
+        "explanation": "Doğru cevap E şıkkıdır. Sıfat-fiil ekleriyle kurulan kelimeler genellikle bitişik yazılır ancak 'değerbilir' değil, 'değer bilir' şeklinde yazılabilir veya burada değer bilmez mantığına zıtlık olması açısından 'değer bilir' kullanımı ayrı olmalıdır.",
+        "source": "2020 TYT"
+      }
+    ]
+  },
+  {
+    "id": "exam-2021-tyt",
+    "year": 2021,
+    "name": "2021 TYT",
+    "questions": [
+      {
+        "id": "q-2021-1",
+        "text": "Tramvay, (I) Galata Köprüsü üzerinden tarihî yarımadaya geçerek Sultanahmet’e vardığında sırasıyla iki farklı şehrin çehresine şahit olan yolcu, burada bir müddet beklemek zorunda kalacak. (II) Roma hipodromu olan (III) At Meydanı çevresindeki yapıların ışıltısı karşısında büyülenecek; üç devrin mabedi bin beş yüz yıllık (IV) Ayasofya Camisi, etrafı süsleyen (V) Alman çeşmesi gibi anıtlar geçidinin ortasında başı dönecektir.\n\nBu parçada numaralanmış sözlerin hangisinin yazımı yanlıştır? (2021 TYT)",
+        "options": [
+          "A) I",
+          "B) II",
+          "C) III",
+          "D) IV",
+          "E) V"
+        ],
+        "correctIndex": 4,
+        "explanation": "Doğru cevap E şıkkıdır. Tarihi eser veya anıt çeşme isimleri büyük harfle başlamalıdır: 'Alman Çeşmesi'.",
+        "source": "2021 TYT"
+      },
+      {
+        "id": "q-2021-2",
+        "text": "Aşağıdaki cümlelerde yer alan birleşik sözcüklerden hangisinin yazımı yanlıştır? (2021 TYT)",
+        "options": [
+          "A) Gezdiğimiz yerlerdeki nesnelerin üzerine, onların hakettiği heyecanı duymamızı sağlayacak sorular iliştirilmemişti.",
+          "B) Bütün bu güzellikler, onları göreceğim için kendimi ayrıcalıklı addetmeme rağmen bende kayıtsızlık uyandırıyordu.",
+          "C) Nehri ve vadiyi seyreden iki kişi o anda yalnızca doğayla değil, birbirleriyle kurdukları dostluğu da dönüştürmekteydi.",
+          "D) Bize hükmeden mutluluk arayışı ise bu arayışın dinamiklerini açığa çıkaran etkinliklerden biri seyahatlerimizdir.",
+          "E) Merak bazen uzun mesafeleri birleştiren küçük halkaların oluşturduğu, insanı cezbeden bir zincir gibidir."
+        ],
+        "correctIndex": 0,
+        "explanation": "Doğru cevap A şıkkıdır. Ses olayı olmadığı için 'hak ettiği' ayrı yazılmalıdır.",
+        "source": "2021 TYT"
+      }
+    ]
+  },
+  {
+    "id": "exam-2022-tyt",
+    "year": 2022,
+    "name": "2022 TYT",
+    "questions": [
+      {
+        "id": "q-2022-1",
+        "text": "(I) Kendimi eski mahallemin Arnavut kaldırımlarında çocukluğumu ararken buluverdim geçenlerde. (II) Bahçelerinde saklambaç oynadığım evlerin bakımsız, hüzünlü hâllerine bakarken saçılıverdi birden etrafa anılarım. (III) Limon sarısı gibi görünen eskiliğin yüzü, sadece bakımsızlıktan ibaret değildi elbette. (IV) Benim zihnimdeki eskilik: Duvarlarda çiviler, lekeler, paslanmış salça kutusundan saksılar... (V) Yoğurtçuya karşı pencereden seslenen Fatma teyzemin nidalarının yokluğu da eskitmişti bu evleri.\n\nBu parçada numaralanmış cümlelerin hangisinde yazım yanlışı vardır? (2022 TYT)",
+        "options": [
+          "A) I",
+          "B) II",
+          "C) III",
+          "D) IV",
+          "E) V"
+        ],
+        "correctIndex": 3,
+        "explanation": "Doğru cevap D şıkkıdır. İki noktadan sonra cümle niteliği taşımayan örnekler sıralanıyorsa kelime küçük harfle başlar: 'duvarlarda çiviler...'",
+        "source": "2022 TYT"
+      },
+      {
+        "id": "q-2022-2",
+        "text": "(I) Oldum olası kendime (II) çekidüzen vermeyi hiç bilmem. Sakal bir karış, saçlar öylesine, günlerce dolaştığım olur. Bir Mehmet Bey vardı, komşumuz. Tanışır, konuşurdum ama adımı hiç merak etmemiş mi yoksa (III) unutumuvermiş, nedir? Bir gün benim için “Hani, (IV) saçı sakalı akar gibi bir adam geliyor buraya, o işte!” demiş. Üstüme başıma özen göstermeyi beceremem. Çoraplarım hep düşer, yakamla (V) boyun bağımın biri bir yanda diğeri bir yanda.\n\nBu parçada numaralanmış sözlerden hangisinin yazımı yanlıştır? (2022 TYT)",
+        "options": [
+          "A) I",
+          "B) II",
+          "C) III",
+          "D) IV",
+          "E) V"
+        ],
+        "correctIndex": 2,
+        "explanation": "Doğru cevap C şıkkıdır. 'mi' soru eki her zaman ayrı yazılır: 'unuttu mu vermiş' yanlış, 'unut mu vermiş' olmalı. Doğrusu 'unutuvermiş mi' veya 'unutmuş mu' şeklindedir ancak parçadaki 'unutumuvermiş' kullanımı tamamen yanlıştır.",
+        "source": "2022 TYT"
+      }
+    ]
+  },
+  {
+    "id": "exam-2023-tyt",
+    "year": 2023,
+    "name": "2023 TYT",
+    "questions": [
+      {
+        "id": "q-2023-1",
+        "text": "Romanın karakteri Mümtaz, Sahaflar Çarşısı’ndan geçerken tanıdık bir sahafın uzattığı birkaç kitabı (I) ayaküstü karıştırır. Aslında (II) bilinçaltı, kısa süre önce ayrıldığı Nuran’ın hayaliyle doludur. Mümtaz (III) yanı başında yaşayan bu kadını, âdeta ortada olmayan bir varlık gibi sevmektedir. Nuran, gönlüne düşünce dışarıya çıkış amacını bir anda unutur ve sahaftan ayrılıp sanki (IV) uyur gezer biri gibi çarşıyı (V) baştan başa adımlar.\n\nBu parçada numaralanmış sözlerden hangisinin yazımında yanlışlık yapılmıştır? (2023 TYT)",
+        "options": [
+          "A) I",
+          "B) II",
+          "C) III",
+          "D) IV",
+          "E) V"
+        ],
+        "correctIndex": 3,
+        "explanation": "Doğru cevap D şıkkıdır. 'uyurgezer' kelimesi kalıplaşmış ve kendi anlamından sıyrılmış bir kelimedir, bu nedenle bitişik yazılmalıdır.",
+        "source": "2023 TYT"
+      },
+      {
+        "id": "q-2023-2",
+        "text": "Aşağıdaki cümlelerin hangisinde altı çizili sözcüğün yazımında yanlışlık yapılmıştır? (2023 TYT)",
+        "options": [
+          "A) Bütün gün balık tuttuktan sonra akşamüzeri sakin bir koyda kamp kurduk.",
+          "B) Dedemin verdiği antika kargaburnu ile diğer tamir aletlerini alet çantasına koyduk.",
+          "C) Dilin birey ve toplum hayatında taşıdığı önem, anadili öğretimini de önemli kılmaktadır.",
+          "D) Bizim çocuklar bu yaz, İstanbul'un en güzel yerinde denize nazır bir yazıhane açacak.",
+          "E) Zorlu bir tırmanıştı, Ağrı Dağı’nın zirvesine yaklaştığımızda basınçölçer alarma geçti."
+        ],
+        "correctIndex": 2,
+        "explanation": "Doğru cevap C şıkkıdır. 'ana dili' ayrı yazılır.",
+        "source": "2023 TYT"
+      }
+    ]
+  },
+  {
+    "id": "exam-2024-tyt",
+    "year": 2024,
+    "name": "2024 TYT",
+    "questions": [
+      {
+        "id": "q-2024-1",
+        "text": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili yanlışlık yapılmıştır? (2024 TYT)",
+        "options": [
+          "A) Uzun süreden beri ziyarete kapalı olan Yozgat Çamlığı Millî Parkı bu yıl tekrar açıldı.",
+          "B) Türkiye Cumhuriyeti, yüzüncü yılını ülkenin dört bir yanında etkinliklerle kutladı.",
+          "C) Türk tarihi açısından 29 Mayıs 1453 Salı günü kutlu bir fetih gerçekleşti.",
+          "D) Kutlamalar için şehrin en güzel yeri olan Zafer Meydanı tercih edildi.",
+          "E) Yurt dışından gelen resmî heyeti bakan geçtiğimiz hafta Ankara’da kabul etti."
+        ],
+        "correctIndex": 4,
+        "explanation": "Doğru cevap E şıkkıdır. Bir makamı temsil eden kelimeler (bakan, vali vs.) özel olarak o kişiyi kastettiğinde büyük harfle başlar: 'Bakan' olmalıdır.",
+        "source": "2024 TYT"
+      },
+      {
+        "id": "q-2024-2",
+        "text": "Birleşme sırasında kelimelerden her ikisi veya ikincisi anlam değişmesine uğradığında bu tür birleşik kelimeler bitişik yazılır.\n\nBuna göre aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır? (2024 TYT)",
+        "options": [
+          "A) Sıcak yaz günlerinde dondurmanın yanında çokça tüketilen tatlıların başında bülbülyuvası ve kadayıf gelir.",
+          "B) Ekim ve kasım ayları elma, nar, ayva ve beşbıyık gibi meyvelerin pazar tezgâhlarını süslediği zamanlardır.",
+          "C) Çok sevdiği kavuniçi elbisesini dolaptan özenle çıkardı, ütüleyerek ertesi gün giymek üzere hazırladı.",
+          "D) Cırcırböceği ile karıncanın macerası, kardeşimin annemden ve benden en çok dinlediği masaldır.",
+          "E) Narçiçeği rengindeki şapkasıyla kalabalık içinde çok uzaklardan bile ayırt edilebiliyordu."
+        ],
+        "correctIndex": 3,
+        "explanation": "Doğru cevap D şıkkıdır. 'cırcır böceği' kelimelerinden ikincisi (böcek) kendi anlamını koruduğu için kural gereği ayrı yazılmalıdır.",
+        "source": "2024 TYT"
+      }
+    ]
+  },
+  {
+    "id": "exam-2025-tyt",
+    "year": 2025,
+    "name": "2025 TYT (Deneme/Öngörü)",
+    "questions": [
+      {
+        "id": "q-2025-1",
+        "text": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili yanlışlık yapılmıştır? (2025)",
+        "options": [
+          "A) Bu yıl en çok ziyaret edilen yerlerden biri Ankara Kalesi olmuştur.",
+          "B) Ağrı’nın Doğubeyazıt ilçesinde bulunan İshakpaşa Sarayı 1785 yılında yapılmıştır.",
+          "C) Neretva nehri üzerindeki köprü, Osmanlı mimarisinin nadide bir örneğidir.",
+          "D) Bilge Kağan Anıtı, içerdiği bilgilerle Türk tarihinin eşsiz bir tanığıdır.",
+          "E) Batı mimarisine uygun olarak yapılan Beyazıt Kulesi, yüzyıllardan beri kullanılagelmiştir."
+        ],
+        "correctIndex": 2,
+        "explanation": "Doğru cevap C şıkkıdır. Özel isme dâhil olan nehir isimleri büyük harfle başlar: 'Neretva Nehri'.",
+        "source": "2025 TYT"
+      },
+      {
+        "id": "q-2025-2",
+        "text": "Fiziğin XX. yüzyıl boyunca gerçekleştirdiği (I) olağanüstü gelişmelere benzer başarıların (II) kaydedildiği bir diğer (III) bilim dalı astronomidir. Uzak geçmişten modern çağa kadar (IV) gökbilimciler; her dönem evreni tanımak, onun nasıl oluştuğunu ve (V) katettiği evreleri belirlemek için büyük çaba göstermiştir.\n\nBu parçada numaralanmış sözlerden hangisinin yazımı yanlıştır? (2025)",
+        "options": [
+          "A) I",
+          "B) II",
+          "C) III",
+          "D) IV",
+          "E) V"
+        ],
+        "correctIndex": 3,
+        "explanation": "Doğru cevap D şıkkıdır. 'Gök bilimciler' ayrı yazılmalıdır.",
+        "source": "2025 TYT"
+      }
+    ]
+  }
+]

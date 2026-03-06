@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Günün Kuralı (Soru Eki mı / mi'nin Yazımı)",
+    "content": "Soru eki 'mı, mi, mu, mü' daima ayrı yazılır ve kendisinden sonra gelen ekler ona bitişik yazılır. Örnek: Gelecek misin? (Doğru), Gelecekmisin? (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Ayrı Yazılan Birleşik Kelimeler)",
+    "content": "'Etmek, olmak' gibi yardımcı fiillerle kurulan birleşik fiillerde herhangi bir ses düşmesi veya türemesi yoksa kelimeler ayrı yazılır. Örnek: Terk etmek (Doğru), Terketmek (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Kurum ve Kuruluş Adları)",
+    "content": "Kurum, kuruluş, kurul ve iş yeri adlarına getirilen ekler kesme işareti ile ayrılmaz. Örnek: Türkiye Büyük Millet Meclisine (Doğru), TBMM'ne (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (İç, Dış ve Sıra Sözlerinin Yazımı)",
+    "content": "'Dış, iç, sıra' sözleriyle oluşturulan birleşik kelime ve terimler ayrı yazılır. Örnek: Hafta içi, yanı sıra, olağan dışı (Doğru), Haftaici (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Alt ve Üst Sözlerinin Yazımı)",
+    "content": "Somut olarak yer belirten 'alt' ve 'üst' sözleri ayrı yazılır. Örnek: Sualtı (yüzey), böbrek üstü bezi (Doğru), Yer altı (Yanlış - somut yer belirtiyorsa)."
+  },
+  {
+    "title": "Günün Kuralı (Kısaltmalarda Nokta Kullanımı)",
+    "content": "Büyük harflerle yapılan kısaltmalarda T.C. ve T. dışında nokta kullanılmaz. Örnek: TDK, ABD (Doğru), T.D.K. (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (İkilemelerin Yazımı)",
+    "content": "İkilemeler daima ayrı yazılır ve aralarına herhangi bir noktalama işareti konmaz. Örnek: El ele, yan yana, adım adım (Doğru), El-ele (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Renk Adlarında Ton Belirtme)",
+    "content": "Rengin tonunu belirtmek üzere kullanılan sıfatlar ayrı yazılır. Örnek: Koyu mavi, açık yeşil, kirli sarı (Doğru), Koyumavi (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Akrabalık Bildiren Sözler)",
+    "content": "Akrabalık bildiren kelimeler (lakap veya ünvan değilse) küçük harfle başlar. Örnek: Ayşe teyzem (Doğru), Ayşe Teyzem (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Yer Adlarında Tür Bildiren İsimler)",
+    "content": "Yer adlarında ilk isimden sonra gelen deniz, nehir, göl, dağ, boğaz gibi tür bildiren ikinci isimler büyük harfle başlar. Örnek: Ağrı Dağı, Van Gölü (Doğru), Ağrı dağı (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Birleşik Kelimelerde Baş Sözü)",
+    "content": "'Baş' sözüyle oluşturulan sıfat tamlamaları bitişik yazılır. Örnek: Başbakan, başöğretmen, başrol (Doğru), Baş yazar (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Ev Kelimesiyle Kurulan Birleşikler)",
+    "content": "'Ev' kelimesiyle kurulan birleşik kelimeler bitişik yazılır. Örnek: Öğretmenevi, polisevi, huzurevi (Doğru), Basım evi (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Hane ve Name Kelimeleri)",
+    "content": "'Hane, name, zade' kelimeleriyle oluşturulan birleşik kelimeler bitişik yazılır. Örnek: Dershane, beyanname, amcazade (Doğru), Ders hane (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Sayıların Yazımı - Metin İçinde)",
+    "content": "Birden fazla kelimeden oluşan sayılar metin içinde ayrı yazılır. Örnek: İki yüz elli (Doğru), İkiyüzelli (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Saat ve Dakika Yazımı)",
+    "content": "Saat ve dakikalar arasında sadece nokta konur (iki nokta kullanılmaz). Örnek: 09.15 (Doğru), 09:15 (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Ünlü Düşmesi ve İkilemeler)",
+    "content": "İkilemelerde ikinci kelimenin dar ünlüsü düşürülmez. Örnek: Burun buruna, omuz omuza (Doğru), Burun burna (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Belirsizlik Sıfat ve Zamirleri)",
+    "content": "'Birkaç, birçok, hiçbir, herhangi' gibi belirsizlik bildiren sözcükler gelenekleşmiş olarak bitişik yazılır. Örnek: Hiçbir (Doğru), Hiç bir (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Ara Yönlerin Yazımı)",
+    "content": "Ara yönleri belirten kelimeler daima bitişik yazılır. Örnek: Güneybatı, kuzeydoğu (Doğru), Güney batı (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Özel Adlardan Türetilen Kelimeler)",
+    "content": "Özel adlardan türetilen kelimeler büyük harfle başlar ancak getirilen yapım ekleri kesmeyle ayrılmaz. Örnek: Türklük, Türkçenin (Doğru), Türk'lük (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Gezegen Adlarının Yazımı)",
+    "content": "Dünya, güneş, ay kelimeleri gezegen anlamı dışında kullanıldıklarında küçük harfle başlar. Örnek: Güneş doğdu. (Doğru), güneş tutulması (Gezegen anlamıysa büyük)."
+  },
+  {
+    "title": "Günün Kuralı (Para Birimlerinin Yazımı)",
+    "content": "Para birimleri (özel ad olmadıkları için) küçük harfle başlar. Örnek: lira, dolar, avro (Doğru), Lira (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Müzik Makamlarının Yazımı)",
+    "content": "Müzikte kullanılan makam adları bitişik ve küçük harfle yazılır. Örnek: acembuselik, nihavent (Doğru), Acem Buselik (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (Üleştirme Sayıları)",
+    "content": "Üleştirme sayıları rakamla değil, sadece yazıyla gösterilir. Örnek: Onar onar (Doğru), 10'ar 10'ar (Yanlış)."
+  },
+  {
+    "title": "Günün Kuralı (İle'nin Ek Olarak Yazımı)",
+    "content": "'İle' kelimesi ekleştiğinde ünlü uyumuna uyar. Ünlüyle biten kelimelerde araya 'y' girer. Örnek: Çevreyle (Doğru), Çevre ile (Doğru)."
+  },
+  {
+    "title": "Günün Kuralı (Özel Adlarda Ünvan Yazımı)",
+    "content": "Kişi adlarından önce ve sonra gelen ünvanlar, rütbe adları ve lakaplar büyük harfle başlar. Örnek: Kaymakam Erol Bey (Doğru), erol bey (Yanlış)."
+  }
+]
